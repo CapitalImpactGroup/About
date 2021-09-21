@@ -9,5 +9,6 @@ Our experts work closely with our clients to serve as a liaison between public a
 
 CIG and its affiliate communications/public relations firm, Open Door Media, have decades of experience in creating effective strategic government relations and public affairs campaigns that help our corporate and non-profit clients to promote their projects, issues and programs to elected officials, companies and the general public.
 
+Since our founding in 2006, CIG has been listed by NJBIZ, a prominent New Jersey business magazine, as one of the Top 10 Lobbying Firms in the state.
 
-Since our founding in 2006, CIG has been listed by NJBIZ, a prominent New Jersey business magazine, as one of the Top 10 Lobbying Firms in the state
+This git is used for the website re-design. We are starting from the ground up and i wanted to document everything for the next cs firm to come along and fix the site when need-be. 
