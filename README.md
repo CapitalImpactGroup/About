@@ -1,5 +1,6 @@
 Capital Impact Group (CIG) is a full-service, bi-partisan and diverse public affairs and business development firm that advocates for its clients at all levels of government. Since 2006, we have represented clients’ interests on the Local, County, State and Federal government levels on legislation, governmental processes, permitting and rulemaking and also helped our clients to identify and cultivate new business opportunities and strategic partnerships.
 
+This is CIG's git page. I am using this platform to 
 
 CIG is comprised of former public officials, agency professionals, and communications experts with an intimate knowledge of government and access to key decision makers in every realm of public policy.
 
