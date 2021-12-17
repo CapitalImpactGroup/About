@@ -13,3 +13,5 @@ CIG and its affiliate communications/public relations firm, Open Door Media, hav
 Since our founding in 2006, CIG has been listed by NJBIZ, a prominent New Jersey business magazine, as one of the Top 10 Lobbying Firms in the state.
 
 This git is used for the website re-design. We are starting from the ground up and i wanted to document everything for the next cs firm to come along and fix the site when need-be. 
+
+this is me making a change. 
